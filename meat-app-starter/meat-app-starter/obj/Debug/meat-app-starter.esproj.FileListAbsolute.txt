@@ -1,0 +1,1 @@
+X:\VSTS\meat-app-starter\meat-app-starter\meat-app-starter\obj\Debug\meat-app-starter.esproj.CoreCompileInputs.cache
